@@ -1,7 +1,4 @@
-ng Interviews Repository...
-'''
-Welcome to the Programming Interviews Repository! This repository is designed to help you prepare for technical interviews for software engineering positions. It contains a collection of questions, along with solutions in multiple programming languages, that are frequently asked in programming interviews.
-'''
+''' Welcome to the Programming Interviews Repository! This repository is designed to help you prepare for technical interviews for software engineering positions. It contains a collection of questions, along with solutions in multiple programming languages, that are frequently asked in programming interviews.'''
 
 ### Table of Contents
 - Data Structures
